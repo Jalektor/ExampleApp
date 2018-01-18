@@ -1,0 +1,11 @@
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\obj\Debug\netstandard2.0\ListBoxExample.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\obj\Debug\netstandard2.0\ListBoxExample.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\obj\Debug\netstandard2.0\ListBoxExample.App.xaml.g.cs
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\obj\Debug\netstandard2.0\ListBoxExample.MainPage.xaml.g.cs
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\obj\Debug\netstandard2.0\ListBoxExample.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\obj\Debug\netstandard2.0\ListBoxExample.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\bin\Debug\netstandard2.0\ListBoxExample.deps.json
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\bin\Debug\netstandard2.0\ListBoxExample.dll
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\bin\Debug\netstandard2.0\ListBoxExample.pdb
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\obj\Debug\netstandard2.0\ListBoxExample.dll
+C:\Users\Jonathan\OneDrive\Projects\Group Project\ListBoxExample\ListBoxExample\ListBoxExample\obj\Debug\netstandard2.0\ListBoxExample.pdb

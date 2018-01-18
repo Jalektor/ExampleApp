@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ListBoxExample"
+             x:Class="ListBoxExample.MainPage">
+
+    <StackLayout BackgroundColor="Aqua" VerticalOptions="Start" HorizontalOptions="Start">
+	<Label Text="{Binding Title}" TextColor="Black" FontSize="20"
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+    </StackLayout>
+    <StackLayout>
+        <Label  Text="{Binding LBox1}" TextColor="Black" FontSize="20" VerticalOptions="Center" HorizontalOptions="Center"/>
+        <Picker x:Name="pick1" ItemsSource="{Binding Picker1}" WidthRequest="80" Title="Pick1Name" SelectedItem="{Binding Pick1Item}" TextColor="Black" SelectedIndex="0" SelectedIndexChanged="ItemSelectChange_SelectedIndexChanged"/>
+        <Picker x:Name="pick2" WidthRequest="80" Title="{Binding Pick1Name}" TextColor="Black" SelectedItem="Pick2Item"/>
+        <StackLayout>
+            <Button Text="{Binding Navigate}" Clicked="OnButtonClicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
